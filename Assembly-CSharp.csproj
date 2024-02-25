@@ -70,6 +70,7 @@
     <Compile Include="Assets\ThirdParty\DOTween Examples\UGUI.cs" />
     <Compile Include="Assets\ThirdParty\DOTween Examples\CustomPlugin Example\CustomRange.cs" />
     <Compile Include="Assets\ThirdParty\DOTween Examples\_Shared Example Assets\DragTarget.cs" />
+    <Compile Include="Assets\Scripts\FlipClock.cs" />
     <Compile Include="Assets\ThirdParty\DOTween Examples\CustomPlugin Example\CustomRangePlugin.cs" />
     <Compile Include="Assets\ThirdParty\DOTween Examples\ScrollerAutoJump\AutoJumpScene.cs" />
     <Compile Include="Assets\ThirdParty\DOTween Examples\Sequences.cs" />
