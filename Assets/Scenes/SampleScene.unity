@@ -480,10 +480,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fdf91a31ba4c2942879c20d9551906f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextTime_Units_Digit_Upper: {fileID: 0}
-  currentTime_Units_Digit_Upper: {fileID: 0}
-  currentTime_Units_Digit_Lower: {fileID: 0}
-  nextTime_Units_Digit_Lower: {fileID: 0}
+  nextTime_Units_Digit_Upper: {fileID: 1833580528}
+  currentTime_Units_Digit_Upper: {fileID: 78993908}
+  currentTime_Units_Digit_Lower: {fileID: 825451108}
+  nextTime_Units_Digit_Lower: {fileID: 1158180316}
+  sprite_Number:
+  - {fileID: 21300000, guid: 3d69b40b5f8a6bb47bee6fe16d1ab551, type: 3}
+  - {fileID: 21300000, guid: 8ab2a6b4e072e304eadf93c4404ef6b1, type: 3}
+  - {fileID: 21300000, guid: 9f36c9ee9bb98de4d823d6ca8e661ffd, type: 3}
+  - {fileID: 21300000, guid: 04e4ebd85e54a6d4c9712a8f23e1d208, type: 3}
+  - {fileID: 21300000, guid: 02b4ff5a394b0b644a5f416185993c7d, type: 3}
+  - {fileID: 21300000, guid: 128df2c9555e3be419a7f6e6126ea28f, type: 3}
+  - {fileID: 21300000, guid: cd076fec9416eed4aa2c4ad9121ecb5b, type: 3}
+  - {fileID: 21300000, guid: 939c2f3327c952c489089d6eee140d48, type: 3}
+  - {fileID: 21300000, guid: c2b130c799f12a542963799e0ad5c9c5, type: 3}
+  - {fileID: 21300000, guid: 52bdc3f7aeb7eba4691abe00eeb3c8df, type: 3}
+  - {fileID: 21300000, guid: 8b0c357ff47d6f248a5af3e5b60aec21, type: 3}
+  - {fileID: 21300000, guid: 2f18afdaebf942a4fb1013110c1f30c4, type: 3}
+  - {fileID: 21300000, guid: 3d4960f27b601ae44a4170a1e54cdfcf, type: 3}
+  - {fileID: 21300000, guid: c8fe0e8acb7323e41b28c715198e3a8b, type: 3}
+  - {fileID: 21300000, guid: 83e08e73bbb95114b879cf93337d0137, type: 3}
+  - {fileID: 21300000, guid: 451c2e934b088dc4fbd2b0fae3a4b596, type: 3}
+  - {fileID: 21300000, guid: 221a1d0aee1d51b46955621342ca4b34, type: 3}
+  - {fileID: 21300000, guid: e2bd69e028f57fc40b802620cb96f585, type: 3}
+  - {fileID: 21300000, guid: a67b5e032a3660646869a7a318a3219d, type: 3}
+  - {fileID: 21300000, guid: 1a2478e06ccb569468a2201097929cdc, type: 3}
 --- !u!1 &451187580
 GameObject:
   m_ObjectHideFlags: 0
