@@ -1,17 +1,17 @@
-using UnityEditor;
+ï»¿using UnityEditor;
 
 [CustomEditor(typeof(CustomImage))]
 public class CustomImageEditor : Editor
 {
     public override void OnInspectorGUI()
     {
-        // §ó·s§Ç¦C¤Æª«¥ó
+        // æ›´æ–°åºåˆ—åŒ–ç‰©ä»¶
         serializedObject.Update();
 
-        // Åã¥ÜImageªº¹w³]Inspector­±ªO
+        // é¡¯ç¤ºImageçš„é è¨­Inspectoré¢æ¿
         base.OnInspectorGUI();
 
-        // À³¥Î©Ò¦³ªº­×§ï
+        // æ‡‰ç”¨æ‰€æœ‰çš„ä¿®æ”¹
         serializedObject.ApplyModifiedProperties();
     }
 }
